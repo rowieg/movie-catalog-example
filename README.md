@@ -1,6 +1,6 @@
 # Scope
 
-This is out interactive movie and series catalog. You can filter the entries by genre and select the movie or series you want to get more information about.
+This is our interactive movie and series catalog. You can filter the entries by genre and select the movie or series you want to get more information about.
 
 # What we need to do
 
